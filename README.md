@@ -1,13 +1,23 @@
-Managment System for Repair Company 
+## Managment System for Repair Company 
 
 Login as Admin/Employee:
-![image](https://user-images.githubusercontent.com/50525581/123765911-7865e500-d8c6-11eb-8aba-40771073ad9f.png)
+
+![image](https://user-images.githubusercontent.com/50525581/123766223-ca0e6f80-d8c6-11eb-8dd7-b3030737cf49.png)
 
 Main page:
 ![image](https://user-images.githubusercontent.com/50525581/123765946-8156b680-d8c6-11eb-8c84-3ca3e2df3e40.png)
 
 Add New Order:
 ![image](https://user-images.githubusercontent.com/50525581/123766142-b2cf8200-d8c6-11eb-9e3e-8adb4c137693.png)
+
+Update Order:
+![image](https://user-images.githubusercontent.com/50525581/123766467-03df7600-d8c7-11eb-9999-39caaba503b4.png)
+
+
+
+See orders for each employee if you are admin:
+
+![image](https://user-images.githubusercontent.com/50525581/123766573-19ed3680-d8c7-11eb-8350-a1252d09757c.png)
 
 
 
