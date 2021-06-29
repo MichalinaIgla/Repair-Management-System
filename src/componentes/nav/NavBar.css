@@ -1,0 +1,25 @@
+.headerTextHi{
+    margin-top: 0.8rem  !important;
+}
+.ProfileLink{
+    color: inherit !important;
+    text-decoration: dashed;
+}
+.SideBarLink{
+    color: inherit !important;
+    text-decoration: dashed;
+}
+.companyName{
+    overflow: visible !important;
+    /* font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif !important; */
+    /* font-family:'Lora', serif !important; */
+    /* color: #4b5363; */
+    /* background-color: #2d2d2d; */
+    /* letter-spacing: .1em; */
+    /* text-shadow: 
+      -1px -1px 1px rgb(172, 181, 211); */
+      /* 2px 2px 1px #798db8; */
+      margin-top: 0.1rem  !important;
+
+
+}

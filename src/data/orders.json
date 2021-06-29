@@ -1,0 +1,59 @@
+[
+    {
+        "id": "0",
+        "product": {
+            "category": "Laptop",
+            "name": "Dell",
+            "defect": "burnt processor"
+        },
+        "owner":{
+            "firstname" : "Patrick ",
+            "lastname": "Smith",
+            "phone": "234234234"
+        },
+        "receiveddate": "2013-10-21T13:28:06.419Z",
+        "receiptdate": "",
+        "status": "accepted",
+        "employee": "" ,
+        "price": "",
+        "description": ""
+    },
+    {
+        "id": "1",
+        "product": {
+            "category": "Phone",
+            "name": "Samsung Galaxy S10",
+            "defect": "broken screen"
+        },
+        "owner":{
+            "firstname" : "Patrick ",
+            "lastname": "Smith",
+            "phone": "234234234"
+        },
+        "receiveddate": "2013-10-21T13:28:06.419Z",
+        "receiptdate": "2013-10-21T13:28:06.419Z",
+        "status": "inprogress",
+        "employee": "Mark" ,
+        "price": 0,
+        "description": ""
+    },
+    {
+        "id": "2",
+        "product": {
+            "category": "Phone",
+            "name": "Xiaomi Redmi Note 8 Pro 6",
+            "defect": ""
+        },
+        "owner":{
+            "firstname" : "Patrick ",
+            "lastname": "Smith",
+            "phone": "234234234"
+        },
+        "receiveddate": "2013-10-21T13:28:06.419Z",
+        "receiptdate": "2013-10-21T13:28:06.419Z",
+        "status": "inprogress",
+        "employee": "Mark" ,
+        "price": 0,
+        "description": "broken screen"
+    }
+]

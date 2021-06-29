@@ -1,0 +1,262 @@
+{
+  "orders": [
+    {
+      "product": {
+        "category": "Phone",
+        "name": "Xiaomi Redmi Note 8 Pro 6",
+        "defect": "broken screen"
+      },
+      "owner": {
+        "firstname": "Patrick ",
+        "lastname": "Smith",
+        "phone": "111111111111",
+        "email": "123@test.com"
+      },
+      "receiveddate": "2020-12-10",
+      "receiptdate": "2021-01-07",
+      "status": "Accepted",
+      "employee": "0",
+      "price": "100",
+      "description": "fix",
+      "id": "2"
+    },
+    {
+      "product": {
+        "category": "Keyboard",
+        "name": "Logitech",
+        "defect": "not working"
+      },
+      "owner": {
+        "firstname": "Supply",
+        "lastname": "Haven",
+        "phone": "",
+        "email": "mail@react.com"
+      },
+      "receiveddate": "2020-12-07",
+      "receiptdate": "2021-01-30",
+      "status": "Accepted",
+      "employee": "0",
+      "price": "40",
+      "description": "",
+      "id": "6"
+    },
+    {
+      "product": {
+        "category": "Laptop",
+        "name": "Monitor lg 24mp59g-p",
+        "defect": "not working"
+      },
+      "owner": {
+        "firstname": "Supply",
+        "lastname": "Haven",
+        "phone": "12121212121212",
+        "email": "mail@mai.com"
+      },
+      "receiveddate": "2020-12-04",
+      "receiptdate": "2021-01-30",
+      "status": "In Progress",
+      "employee": "4",
+      "price": "40",
+      "description": "",
+      "id": "7"
+    },
+    {
+      "product": {
+        "category": "Phone",
+        "name": "Samsung Galaxy S10",
+        "defect": "broken screen\t"
+      },
+      "owner": {
+        "firstname": "Supply",
+        "lastname": "Haven",
+        "phone": "",
+        "email": "mail@mai.com"
+      },
+      "receiveddate": "2020-12-04",
+      "receiptdate": "2020-12-30",
+      "status": "Accepted",
+      "employee": "0",
+      "price": 0,
+      "description": "Changing screen ",
+      "id": "8"
+    },
+    {
+      "product": {
+        "category": "Other",
+        "name": "Wacom One By Wacom S (CTL-472)",
+        "defect": "broken"
+      },
+      "owner": {
+        "firstname": "Supply",
+        "lastname": "Haven",
+        "phone": "",
+        "email": "mail@mai.com"
+      },
+      "receiveddate": "2020-12-04",
+      "receiptdate": "2020-12-30",
+      "status": "In Progress",
+      "employee": "4",
+      "price": "32",
+      "description": "",
+      "id": "9"
+    },
+    {
+      "product": {
+        "category": "Phone",
+        "name": "Xiaomi Redmi Note 10",
+        "defect": "broken camera"
+      },
+      "owner": {
+        "firstname": "Supply",
+        "lastname": "Haven",
+        "phone": "",
+        "email": "mail@mai.com"
+      },
+      "receiveddate": "2020-12-05",
+      "receiptdate": "2021-01-14",
+      "status": "In Progress",
+      "employee": "6",
+      "price": 0,
+      "description": "",
+      "id": "11"
+    },
+    {
+      "product": {
+        "category": "Laptop",
+        "name": "Macbook Air 13",
+        "defect": "not working"
+      },
+      "owner": {
+        "firstname": "Supply",
+        "lastname": "Haven",
+        "phone": "",
+        "email": "mail@react.com"
+      },
+      "receiveddate": "2020-12-11",
+      "receiptdate": "2020-12-18",
+      "status": "Cancelled",
+      "employee": "0",
+      "price": 0,
+      "description": "",
+      "id": "12"
+    },
+    {
+      "product": {
+        "category": "Other",
+        "name": "ABAP",
+        "defect": "broken"
+      },
+      "owner": {
+        "firstname": "Supply",
+        "lastname": "Haven",
+        "phone": "",
+        "email": "mail@react.com"
+      },
+      "receiveddate": "2020-12-11",
+      "receiptdate": "2020-12-18",
+      "status": "Accepted",
+      "employee": "0",
+      "price": 0,
+      "description": "",
+      "id": "13"
+    },
+    {
+      "product": {
+        "category": "Phone",
+        "name": "Samsung Galaxy S10 lite",
+        "defect": "burnt processor"
+      },
+      "owner": {
+        "firstname": "Supplus",
+        "lastname": "Haven",
+        "phone": "456654789",
+        "email": "SHaven@react.com"
+      },
+      "receiveddate": "2020-12-11",
+      "receiptdate": "2021-01-09",
+      "status": "In Progress",
+      "employee": "5",
+      "price": "6",
+      "description": "",
+      "id": "14"
+    },
+    {
+      "product": {
+        "category": "Keyboard",
+        "name": "Logitech",
+        "defect": "broken keys"
+      },
+      "owner": {
+        "firstname": "Alex",
+        "lastname": "Everything",
+        "phone": "",
+        "email": "Alex@react.com"
+      },
+      "receiveddate": "2020-12-28",
+      "receiptdate": "2021-01-27",
+      "status": "In Progress",
+      "employee": "5",
+      "price": 0,
+      "description": "",
+      "id": "15"
+    },
+    {
+      "id": "_9zDfaj5C",
+      "product": {
+        "category": "Mause",
+        "name": "Xiaomi Redmi Note 8 Pro 6",
+        "defect": "not working"
+      },
+      "owner": {
+        "firstname": "Supply",
+        "lastname": "Haven",
+        "phone": "",
+        "email": "mail@mai.com"
+      },
+      "receiveddate": "2021-01-11",
+      "receiptdate": "2021-01-14",
+      "status": "In Progress",
+      "employee": "5",
+      "price": 0,
+      "description": ""
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin",
+      "firstname": "Admin",
+      "lastname": "Admin",
+      "email": "admin@admin.com",
+      "role": "administrator"
+    },
+    {
+      "id": "4",
+      "username": "Oliver",
+      "password": "admin",
+      "firstname": "Oliver",
+      "lastname": "Davis",
+      "email": "mark@company.com",
+      "role": "user"
+    },
+    {
+      "id": "5",
+      "username": "Liam",
+      "password": "admin",
+      "firstname": "Liam",
+      "lastname": "Jones",
+      "email": "mark@company.com",
+      "role": "user"
+    },
+    {
+      "id": "6",
+      "username": "Scott",
+      "password": "admin",
+      "firstname": "Scott",
+      "lastname": "Ava",
+      "email": "mark@company.com",
+      "role": "administrator"
+    }
+  ]
+}
