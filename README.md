@@ -29,3 +29,9 @@ See orders for each employee if you are admin:
 ## `chai and supertest library`
 
 
+## Technologies:
+-Material UI
+-Node JS express
+-Chai and Mocha
+-Typescript
+-Redux
