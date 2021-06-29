@@ -6,7 +6,7 @@ Login as Admin/Employee:
 
 Orders page:
 
-<img src="https://user-images.githubusercontent.com/50525581/123767070-7fd9be00-d8c7-11eb-9270-8fa989216bfe.png" width="50%">
+<img src="https://user-images.githubusercontent.com/50525581/123767070-7fd9be00-d8c7-11eb-9270-8fa989216bfe.png" width="60%">
 
 Add New Order:
 
