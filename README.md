@@ -29,8 +29,3 @@ See orders for each employee if you are admin:
 ## `chai and supertest library`
 
 
-
-
-## In the project and server directory, you can run:
-
-### `npm start`
