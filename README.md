@@ -1,3 +1,21 @@
+Managment System for Repair Company 
+
+Login as Admin/Employee:
+![image](https://user-images.githubusercontent.com/50525581/123765911-7865e500-d8c6-11eb-8aba-40771073ad9f.png)
+
+Main page:
+![image](https://user-images.githubusercontent.com/50525581/123765946-8156b680-d8c6-11eb-8c84-3ca3e2df3e40.png)
+
+Add New Order:
+![image](https://user-images.githubusercontent.com/50525581/123766142-b2cf8200-d8c6-11eb-9e3e-8adb4c137693.png)
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
