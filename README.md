@@ -2,7 +2,7 @@
 
 Login as Admin/Employee:
 
-![image](https://user-images.githubusercontent.com/50525581/123766791-46a14e00-d8c7-11eb-8609-a3926019c900.png){:height="50%" width="50%"}
+<img src="https://user-images.githubusercontent.com/50525581/123766791-46a14e00-d8c7-11eb-8609-a3926019c900.png" width="40%">
 
 Main page:
 ![image](https://user-images.githubusercontent.com/50525581/123767070-7fd9be00-d8c7-11eb-9270-8fa989216bfe.png){:height="50%" width="50%"}
